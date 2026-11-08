@@ -1,0 +1,8 @@
+
+[theme]
+base = "light"
+primaryColor = "#B54B62"               # Deep rose sampled from Pink Venom
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#000000"
+font = "sans serif"

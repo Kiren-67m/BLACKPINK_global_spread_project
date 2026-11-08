@@ -1,0 +1,673 @@
+track_id,track_name,market,anchor_type,era,release_date,chart_date,day_index,uri,rank,streams,status,source_snapshot
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-22,0,,,,not_charted,regional-global-daily-2017-06-22.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-23,1,,,,not_charted,regional-global-daily-2017-06-23.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-24,2,,,,not_charted,regional-global-daily-2017-06-24.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-25,3,,,,not_charted,regional-global-daily-2017-06-25.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-26,4,,,,not_charted,regional-global-daily-2017-06-26.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-27,5,,,,not_charted,regional-global-daily-2017-06-27.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-28,6,,,,not_charted,regional-global-daily-2017-06-28.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-29,7,,,,snapshot_missing,regional-global-daily-2017-06-29.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-06-30,8,,,,snapshot_missing,regional-global-daily-2017-06-30.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-01,9,,,,snapshot_missing,regional-global-daily-2017-07-01.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-02,10,,,,snapshot_missing,regional-global-daily-2017-07-02.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-03,11,,,,snapshot_missing,regional-global-daily-2017-07-03.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-04,12,,,,snapshot_missing,regional-global-daily-2017-07-04.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-05,13,,,,snapshot_missing,regional-global-daily-2017-07-05.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-06,14,,,,snapshot_missing,regional-global-daily-2017-07-06.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-07,15,,,,snapshot_missing,regional-global-daily-2017-07-07.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-08,16,,,,snapshot_missing,regional-global-daily-2017-07-08.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-09,17,,,,snapshot_missing,regional-global-daily-2017-07-09.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-10,18,,,,snapshot_missing,regional-global-daily-2017-07-10.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-11,19,,,,snapshot_missing,regional-global-daily-2017-07-11.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-12,20,,,,snapshot_missing,regional-global-daily-2017-07-12.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-13,21,,,,snapshot_missing,regional-global-daily-2017-07-13.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-14,22,,,,snapshot_missing,regional-global-daily-2017-07-14.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-15,23,,,,snapshot_missing,regional-global-daily-2017-07-15.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-16,24,,,,snapshot_missing,regional-global-daily-2017-07-16.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-17,25,,,,snapshot_missing,regional-global-daily-2017-07-17.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-18,26,,,,snapshot_missing,regional-global-daily-2017-07-18.csv
+BP03,As If It’s Your Last,Global,Main,Early Globalization,2017-06-22,2017-07-19,27,,,,snapshot_missing,regional-global-daily-2017-07-19.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-22,0,spotify:track:7LJjWqhqK594nN7qJzLVXE,53,19209,charted,regional-id-daily-2017-06-22.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-23,1,spotify:track:7LJjWqhqK594nN7qJzLVXE,15,39320,charted,regional-id-daily-2017-06-23.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-24,2,spotify:track:7LJjWqhqK594nN7qJzLVXE,14,33043,charted,regional-id-daily-2017-06-24.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-25,3,spotify:track:7LJjWqhqK594nN7qJzLVXE,14,27367,charted,regional-id-daily-2017-06-25.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-26,4,spotify:track:7LJjWqhqK594nN7qJzLVXE,15,30027,charted,regional-id-daily-2017-06-26.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-27,5,spotify:track:7LJjWqhqK594nN7qJzLVXE,18,29018,charted,regional-id-daily-2017-06-27.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-28,6,spotify:track:7LJjWqhqK594nN7qJzLVXE,20,27636,charted,regional-id-daily-2017-06-28.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-29,7,,,,snapshot_missing,regional-id-daily-2017-06-29.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-06-30,8,,,,snapshot_missing,regional-id-daily-2017-06-30.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-01,9,,,,snapshot_missing,regional-id-daily-2017-07-01.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-02,10,,,,snapshot_missing,regional-id-daily-2017-07-02.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-03,11,,,,snapshot_missing,regional-id-daily-2017-07-03.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-04,12,,,,snapshot_missing,regional-id-daily-2017-07-04.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-05,13,,,,snapshot_missing,regional-id-daily-2017-07-05.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-06,14,,,,snapshot_missing,regional-id-daily-2017-07-06.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-07,15,,,,snapshot_missing,regional-id-daily-2017-07-07.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-08,16,,,,snapshot_missing,regional-id-daily-2017-07-08.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-09,17,,,,snapshot_missing,regional-id-daily-2017-07-09.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-10,18,,,,snapshot_missing,regional-id-daily-2017-07-10.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-11,19,,,,snapshot_missing,regional-id-daily-2017-07-11.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-12,20,,,,snapshot_missing,regional-id-daily-2017-07-12.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-13,21,,,,snapshot_missing,regional-id-daily-2017-07-13.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-14,22,,,,snapshot_missing,regional-id-daily-2017-07-14.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-15,23,,,,snapshot_missing,regional-id-daily-2017-07-15.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-16,24,,,,snapshot_missing,regional-id-daily-2017-07-16.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-17,25,,,,snapshot_missing,regional-id-daily-2017-07-17.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-18,26,,,,snapshot_missing,regional-id-daily-2017-07-18.csv
+BP03,As If It’s Your Last,ID,Main,Early Globalization,2017-06-22,2017-07-19,27,,,,snapshot_missing,regional-id-daily-2017-07-19.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-22,0,,,,not_charted,regional-us-daily-2017-06-22.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-23,1,,,,not_charted,regional-us-daily-2017-06-23.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-24,2,,,,not_charted,regional-us-daily-2017-06-24.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-25,3,,,,not_charted,regional-us-daily-2017-06-25.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-26,4,,,,not_charted,regional-us-daily-2017-06-26.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-27,5,,,,not_charted,regional-us-daily-2017-06-27.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-28,6,,,,not_charted,regional-us-daily-2017-06-28.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-29,7,,,,snapshot_missing,regional-us-daily-2017-06-29.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-06-30,8,,,,snapshot_missing,regional-us-daily-2017-06-30.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-01,9,,,,snapshot_missing,regional-us-daily-2017-07-01.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-02,10,,,,snapshot_missing,regional-us-daily-2017-07-02.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-03,11,,,,snapshot_missing,regional-us-daily-2017-07-03.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-04,12,,,,snapshot_missing,regional-us-daily-2017-07-04.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-05,13,,,,snapshot_missing,regional-us-daily-2017-07-05.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-06,14,,,,snapshot_missing,regional-us-daily-2017-07-06.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-07,15,,,,snapshot_missing,regional-us-daily-2017-07-07.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-08,16,,,,snapshot_missing,regional-us-daily-2017-07-08.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-09,17,,,,snapshot_missing,regional-us-daily-2017-07-09.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-10,18,,,,snapshot_missing,regional-us-daily-2017-07-10.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-11,19,,,,snapshot_missing,regional-us-daily-2017-07-11.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-12,20,,,,snapshot_missing,regional-us-daily-2017-07-12.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-13,21,,,,snapshot_missing,regional-us-daily-2017-07-13.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-14,22,,,,snapshot_missing,regional-us-daily-2017-07-14.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-15,23,,,,snapshot_missing,regional-us-daily-2017-07-15.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-16,24,,,,snapshot_missing,regional-us-daily-2017-07-16.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-17,25,,,,snapshot_missing,regional-us-daily-2017-07-17.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-18,26,,,,snapshot_missing,regional-us-daily-2017-07-18.csv
+BP03,As If It’s Your Last,US,Main,Early Globalization,2017-06-22,2017-07-19,27,,,,snapshot_missing,regional-us-daily-2017-07-19.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-15,0,spotify:track:7b8YOVV5quZcSKEijDgyWB,64,1094259,charted,regional-global-daily-2018-06-15.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-16,1,spotify:track:7b8YOVV5quZcSKEijDgyWB,44,1317999,charted,regional-global-daily-2018-06-16.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-17,2,spotify:track:7b8YOVV5quZcSKEijDgyWB,37,1221065,charted,regional-global-daily-2018-06-17.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-18,3,spotify:track:7b8YOVV5quZcSKEijDgyWB,46,1309556,charted,regional-global-daily-2018-06-18.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-19,4,spotify:track:7b8YOVV5quZcSKEijDgyWB,66,1252590,charted,regional-global-daily-2018-06-19.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-20,5,spotify:track:7b8YOVV5quZcSKEijDgyWB,64,1177030,charted,regional-global-daily-2018-06-20.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-21,6,spotify:track:7b8YOVV5quZcSKEijDgyWB,70,1089931,charted,regional-global-daily-2018-06-21.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-22,7,,,,snapshot_missing,regional-global-daily-2018-06-22.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-23,8,,,,snapshot_missing,regional-global-daily-2018-06-23.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-24,9,,,,snapshot_missing,regional-global-daily-2018-06-24.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-25,10,,,,snapshot_missing,regional-global-daily-2018-06-25.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-26,11,,,,snapshot_missing,regional-global-daily-2018-06-26.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-27,12,,,,snapshot_missing,regional-global-daily-2018-06-27.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-28,13,,,,snapshot_missing,regional-global-daily-2018-06-28.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-29,14,,,,snapshot_missing,regional-global-daily-2018-06-29.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-06-30,15,,,,snapshot_missing,regional-global-daily-2018-06-30.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-01,16,,,,snapshot_missing,regional-global-daily-2018-07-01.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-02,17,,,,snapshot_missing,regional-global-daily-2018-07-02.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-03,18,,,,snapshot_missing,regional-global-daily-2018-07-03.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-04,19,,,,snapshot_missing,regional-global-daily-2018-07-04.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-05,20,,,,snapshot_missing,regional-global-daily-2018-07-05.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-06,21,,,,snapshot_missing,regional-global-daily-2018-07-06.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-07,22,,,,snapshot_missing,regional-global-daily-2018-07-07.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-08,23,,,,snapshot_missing,regional-global-daily-2018-07-08.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-09,24,,,,snapshot_missing,regional-global-daily-2018-07-09.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-10,25,,,,snapshot_missing,regional-global-daily-2018-07-10.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-11,26,,,,snapshot_missing,regional-global-daily-2018-07-11.csv
+BP04,DDU-DU DDU-DU,Global,Main,Early Globalization,2018-06-15,2018-07-12,27,,,,snapshot_missing,regional-global-daily-2018-07-12.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-15,0,spotify:track:7b8YOVV5quZcSKEijDgyWB,1,78491,charted,regional-id-daily-2018-06-15.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-16,1,spotify:track:7b8YOVV5quZcSKEijDgyWB,1,123800,charted,regional-id-daily-2018-06-16.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-17,2,spotify:track:7b8YOVV5quZcSKEijDgyWB,1,112592,charted,regional-id-daily-2018-06-17.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-18,3,spotify:track:7b8YOVV5quZcSKEijDgyWB,1,112490,charted,regional-id-daily-2018-06-18.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-19,4,spotify:track:7b8YOVV5quZcSKEijDgyWB,1,110857,charted,regional-id-daily-2018-06-19.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-20,5,spotify:track:7b8YOVV5quZcSKEijDgyWB,1,114342,charted,regional-id-daily-2018-06-20.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-21,6,spotify:track:7b8YOVV5quZcSKEijDgyWB,1,112771,charted,regional-id-daily-2018-06-21.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-22,7,,,,snapshot_missing,regional-id-daily-2018-06-22.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-23,8,,,,snapshot_missing,regional-id-daily-2018-06-23.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-24,9,,,,snapshot_missing,regional-id-daily-2018-06-24.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-25,10,,,,snapshot_missing,regional-id-daily-2018-06-25.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-26,11,,,,snapshot_missing,regional-id-daily-2018-06-26.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-27,12,,,,snapshot_missing,regional-id-daily-2018-06-27.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-28,13,,,,snapshot_missing,regional-id-daily-2018-06-28.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-29,14,,,,snapshot_missing,regional-id-daily-2018-06-29.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-06-30,15,,,,snapshot_missing,regional-id-daily-2018-06-30.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-01,16,,,,snapshot_missing,regional-id-daily-2018-07-01.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-02,17,,,,snapshot_missing,regional-id-daily-2018-07-02.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-03,18,,,,snapshot_missing,regional-id-daily-2018-07-03.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-04,19,,,,snapshot_missing,regional-id-daily-2018-07-04.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-05,20,,,,snapshot_missing,regional-id-daily-2018-07-05.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-06,21,,,,snapshot_missing,regional-id-daily-2018-07-06.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-07,22,,,,snapshot_missing,regional-id-daily-2018-07-07.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-08,23,,,,snapshot_missing,regional-id-daily-2018-07-08.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-09,24,,,,snapshot_missing,regional-id-daily-2018-07-09.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-10,25,,,,snapshot_missing,regional-id-daily-2018-07-10.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-11,26,,,,snapshot_missing,regional-id-daily-2018-07-11.csv
+BP04,DDU-DU DDU-DU,ID,Main,Early Globalization,2018-06-15,2018-07-12,27,,,,snapshot_missing,regional-id-daily-2018-07-12.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-15,0,spotify:track:7b8YOVV5quZcSKEijDgyWB,171,234846,charted,regional-us-daily-2018-06-15.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-16,1,spotify:track:7b8YOVV5quZcSKEijDgyWB,137,253811,charted,regional-us-daily-2018-06-16.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-17,2,spotify:track:7b8YOVV5quZcSKEijDgyWB,141,223002,charted,regional-us-daily-2018-06-17.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-18,3,spotify:track:7b8YOVV5quZcSKEijDgyWB,152,237158,charted,regional-us-daily-2018-06-18.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-19,4,spotify:track:7b8YOVV5quZcSKEijDgyWB,198,225711,charted,regional-us-daily-2018-06-19.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-20,5,,,,not_charted,regional-us-daily-2018-06-20.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-21,6,,,,not_charted,regional-us-daily-2018-06-21.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-22,7,,,,snapshot_missing,regional-us-daily-2018-06-22.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-23,8,,,,snapshot_missing,regional-us-daily-2018-06-23.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-24,9,,,,snapshot_missing,regional-us-daily-2018-06-24.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-25,10,,,,snapshot_missing,regional-us-daily-2018-06-25.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-26,11,,,,snapshot_missing,regional-us-daily-2018-06-26.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-27,12,,,,snapshot_missing,regional-us-daily-2018-06-27.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-28,13,,,,snapshot_missing,regional-us-daily-2018-06-28.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-29,14,,,,snapshot_missing,regional-us-daily-2018-06-29.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-06-30,15,,,,snapshot_missing,regional-us-daily-2018-06-30.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-01,16,,,,snapshot_missing,regional-us-daily-2018-07-01.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-02,17,,,,snapshot_missing,regional-us-daily-2018-07-02.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-03,18,,,,snapshot_missing,regional-us-daily-2018-07-03.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-04,19,,,,snapshot_missing,regional-us-daily-2018-07-04.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-05,20,,,,snapshot_missing,regional-us-daily-2018-07-05.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-06,21,,,,snapshot_missing,regional-us-daily-2018-07-06.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-07,22,,,,snapshot_missing,regional-us-daily-2018-07-07.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-08,23,,,,snapshot_missing,regional-us-daily-2018-07-08.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-09,24,,,,snapshot_missing,regional-us-daily-2018-07-09.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-10,25,,,,snapshot_missing,regional-us-daily-2018-07-10.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-11,26,,,,snapshot_missing,regional-us-daily-2018-07-11.csv
+BP04,DDU-DU DDU-DU,US,Main,Early Globalization,2018-06-15,2018-07-12,27,,,,snapshot_missing,regional-us-daily-2018-07-12.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-05,0,spotify:track:3VHrwffnUZFb7FidvPV3OA,4,4003909,charted,regional-global-daily-2019-04-05.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-06,1,spotify:track:3VHrwffnUZFb7FidvPV3OA,7,3327959,charted,regional-global-daily-2019-04-06.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-07,2,spotify:track:3VHrwffnUZFb7FidvPV3OA,6,3055611,charted,regional-global-daily-2019-04-07.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-08,3,spotify:track:3VHrwffnUZFb7FidvPV3OA,7,3252501,charted,regional-global-daily-2019-04-08.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-09,4,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,8,3092556,charted,regional-global-daily-2019-04-09.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-10,5,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,8,3092588,charted,regional-global-daily-2019-04-10.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-11,6,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,9,3045081,charted,regional-global-daily-2019-04-11.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-12,7,,,,snapshot_missing,regional-global-daily-2019-04-12.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-13,8,,,,snapshot_missing,regional-global-daily-2019-04-13.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-14,9,,,,snapshot_missing,regional-global-daily-2019-04-14.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-15,10,,,,snapshot_missing,regional-global-daily-2019-04-15.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-16,11,,,,snapshot_missing,regional-global-daily-2019-04-16.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-17,12,,,,snapshot_missing,regional-global-daily-2019-04-17.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-18,13,,,,snapshot_missing,regional-global-daily-2019-04-18.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-19,14,,,,snapshot_missing,regional-global-daily-2019-04-19.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-20,15,,,,snapshot_missing,regional-global-daily-2019-04-20.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-21,16,,,,snapshot_missing,regional-global-daily-2019-04-21.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-22,17,,,,snapshot_missing,regional-global-daily-2019-04-22.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-23,18,,,,snapshot_missing,regional-global-daily-2019-04-23.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-24,19,,,,snapshot_missing,regional-global-daily-2019-04-24.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-25,20,,,,snapshot_missing,regional-global-daily-2019-04-25.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-26,21,,,,snapshot_missing,regional-global-daily-2019-04-26.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-27,22,,,,snapshot_missing,regional-global-daily-2019-04-27.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-28,23,,,,snapshot_missing,regional-global-daily-2019-04-28.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-29,24,,,,snapshot_missing,regional-global-daily-2019-04-29.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-04-30,25,,,,snapshot_missing,regional-global-daily-2019-04-30.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-05-01,26,,,,snapshot_missing,regional-global-daily-2019-05-01.csv
+BP05,Kill This Love,Global,Main,Early Globalization,2019-04-05,2019-05-02,27,,,,snapshot_missing,regional-global-daily-2019-05-02.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-05,0,spotify:track:3VHrwffnUZFb7FidvPV3OA,1,477163,charted,regional-id-daily-2019-04-05.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-06,1,spotify:track:3VHrwffnUZFb7FidvPV3OA,1,397529,charted,regional-id-daily-2019-04-06.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-07,2,spotify:track:3VHrwffnUZFb7FidvPV3OA,1,371939,charted,regional-id-daily-2019-04-07.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-08,3,spotify:track:3VHrwffnUZFb7FidvPV3OA,1,370371,charted,regional-id-daily-2019-04-08.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-09,4,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,1,327773,charted,regional-id-daily-2019-04-09.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-10,5,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,1,304371,charted,regional-id-daily-2019-04-10.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-11,6,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,1,289806,charted,regional-id-daily-2019-04-11.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-12,7,,,,snapshot_missing,regional-id-daily-2019-04-12.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-13,8,,,,snapshot_missing,regional-id-daily-2019-04-13.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-14,9,,,,snapshot_missing,regional-id-daily-2019-04-14.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-15,10,,,,snapshot_missing,regional-id-daily-2019-04-15.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-16,11,,,,snapshot_missing,regional-id-daily-2019-04-16.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-17,12,,,,snapshot_missing,regional-id-daily-2019-04-17.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-18,13,,,,snapshot_missing,regional-id-daily-2019-04-18.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-19,14,,,,snapshot_missing,regional-id-daily-2019-04-19.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-20,15,,,,snapshot_missing,regional-id-daily-2019-04-20.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-21,16,,,,snapshot_missing,regional-id-daily-2019-04-21.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-22,17,,,,snapshot_missing,regional-id-daily-2019-04-22.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-23,18,,,,snapshot_missing,regional-id-daily-2019-04-23.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-24,19,,,,snapshot_missing,regional-id-daily-2019-04-24.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-25,20,,,,snapshot_missing,regional-id-daily-2019-04-25.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-26,21,,,,snapshot_missing,regional-id-daily-2019-04-26.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-27,22,,,,snapshot_missing,regional-id-daily-2019-04-27.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-28,23,,,,snapshot_missing,regional-id-daily-2019-04-28.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-29,24,,,,snapshot_missing,regional-id-daily-2019-04-29.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-04-30,25,,,,snapshot_missing,regional-id-daily-2019-04-30.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-05-01,26,,,,snapshot_missing,regional-id-daily-2019-05-01.csv
+BP05,Kill This Love,ID,Main,Early Globalization,2019-04-05,2019-05-02,27,,,,snapshot_missing,regional-id-daily-2019-05-02.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-05,0,spotify:track:3VHrwffnUZFb7FidvPV3OA,35,767637,charted,regional-us-daily-2019-04-05.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-06,1,spotify:track:3VHrwffnUZFb7FidvPV3OA,38,617640,charted,regional-us-daily-2019-04-06.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-07,2,spotify:track:3VHrwffnUZFb7FidvPV3OA,34,552096,charted,regional-us-daily-2019-04-07.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-08,3,spotify:track:3VHrwffnUZFb7FidvPV3OA,32,630550,charted,regional-us-daily-2019-04-08.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-09,4,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,34,594075,charted,regional-us-daily-2019-04-09.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-10,5,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,32,614809,charted,regional-us-daily-2019-04-10.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-11,6,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,34,592871,charted,regional-us-daily-2019-04-11.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-12,7,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,53,535363,charted,regional-us-daily-2019-04-12.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-13,8,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,52,479432,charted,regional-us-daily-2019-04-13.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-14,9,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,48,437306,charted,regional-us-daily-2019-04-14.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-15,10,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,41,509269,charted,regional-us-daily-2019-04-15.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-16,11,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,41,519181,charted,regional-us-daily-2019-04-16.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-17,12,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,44,496027,charted,regional-us-daily-2019-04-17.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-18,13,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,48,483621,charted,regional-us-daily-2019-04-18.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-19,14,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,58,451446,charted,regional-us-daily-2019-04-19.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-20,15,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,58,396794,charted,regional-us-daily-2019-04-20.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-21,16,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,57,357237,charted,regional-us-daily-2019-04-21.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-22,17,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,56,405968,charted,regional-us-daily-2019-04-22.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-23,18,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,64,416564,charted,regional-us-daily-2019-04-23.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-24,19,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,63,414269,charted,regional-us-daily-2019-04-24.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-25,20,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,61,399540,charted,regional-us-daily-2019-04-25.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-26,21,spotify:track:4pUCKHjJ4Ijewc37rRrvHn,92,362119,charted,regional-us-daily-2019-04-26.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-27,22,,,,snapshot_missing,regional-us-daily-2019-04-27.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-28,23,,,,snapshot_missing,regional-us-daily-2019-04-28.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-29,24,,,,snapshot_missing,regional-us-daily-2019-04-29.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-04-30,25,,,,snapshot_missing,regional-us-daily-2019-04-30.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-05-01,26,,,,snapshot_missing,regional-us-daily-2019-05-01.csv
+BP05,Kill This Love,US,Main,Early Globalization,2019-04-05,2019-05-02,27,,,,snapshot_missing,regional-us-daily-2019-05-02.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-06-26,0,spotify:track:6y6k14YN6MbKpGIv1Rk00Q,5,4073352,charted,regional-global-daily-2020-06-26.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-06-27,1,spotify:track:3vAn0qZzdyuHamcrpkfiX3,2,4894830,charted,regional-global-daily-2020-06-27.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-06-28,2,spotify:track:3vAn0qZzdyuHamcrpkfiX3,2,4296019,charted,regional-global-daily-2020-06-28.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-06-29,3,spotify:track:3vAn0qZzdyuHamcrpkfiX3,4,4311336,charted,regional-global-daily-2020-06-29.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-06-30,4,spotify:track:3vAn0qZzdyuHamcrpkfiX3,4,4006904,charted,regional-global-daily-2020-06-30.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-01,5,spotify:track:3vAn0qZzdyuHamcrpkfiX3,5,3758404,charted,regional-global-daily-2020-07-01.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-02,6,spotify:track:3vAn0qZzdyuHamcrpkfiX3,6,3637860,charted,regional-global-daily-2020-07-02.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-03,7,,,,snapshot_missing,regional-global-daily-2020-07-03.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-04,8,,,,snapshot_missing,regional-global-daily-2020-07-04.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-05,9,,,,snapshot_missing,regional-global-daily-2020-07-05.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-06,10,,,,snapshot_missing,regional-global-daily-2020-07-06.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-07,11,,,,snapshot_missing,regional-global-daily-2020-07-07.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-08,12,,,,snapshot_missing,regional-global-daily-2020-07-08.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-09,13,,,,snapshot_missing,regional-global-daily-2020-07-09.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-10,14,,,,snapshot_missing,regional-global-daily-2020-07-10.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-11,15,,,,snapshot_missing,regional-global-daily-2020-07-11.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-12,16,,,,snapshot_missing,regional-global-daily-2020-07-12.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-13,17,,,,snapshot_missing,regional-global-daily-2020-07-13.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-14,18,,,,snapshot_missing,regional-global-daily-2020-07-14.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-15,19,,,,snapshot_missing,regional-global-daily-2020-07-15.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-16,20,,,,snapshot_missing,regional-global-daily-2020-07-16.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-17,21,,,,snapshot_missing,regional-global-daily-2020-07-17.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-18,22,,,,snapshot_missing,regional-global-daily-2020-07-18.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-19,23,,,,snapshot_missing,regional-global-daily-2020-07-19.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-20,24,,,,snapshot_missing,regional-global-daily-2020-07-20.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-21,25,,,,snapshot_missing,regional-global-daily-2020-07-21.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-22,26,,,,snapshot_missing,regional-global-daily-2020-07-22.csv
+BP06,How You Like That,Global,Pre,Streaming Expansion,2020-06-26,2020-07-23,27,,,,snapshot_missing,regional-global-daily-2020-07-23.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-06-26,0,spotify:track:6y6k14YN6MbKpGIv1Rk00Q,1,375274,charted,regional-id-daily-2020-06-26.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-06-27,1,spotify:track:3vAn0qZzdyuHamcrpkfiX3,1,568250,charted,regional-id-daily-2020-06-27.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-06-28,2,spotify:track:3vAn0qZzdyuHamcrpkfiX3,1,499782,charted,regional-id-daily-2020-06-28.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-06-29,3,spotify:track:3vAn0qZzdyuHamcrpkfiX3,1,508019,charted,regional-id-daily-2020-06-29.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-06-30,4,spotify:track:3vAn0qZzdyuHamcrpkfiX3,1,477152,charted,regional-id-daily-2020-06-30.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-01,5,spotify:track:3vAn0qZzdyuHamcrpkfiX3,1,451537,charted,regional-id-daily-2020-07-01.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-02,6,spotify:track:3vAn0qZzdyuHamcrpkfiX3,1,426032,charted,regional-id-daily-2020-07-02.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-03,7,,,,snapshot_missing,regional-id-daily-2020-07-03.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-04,8,,,,snapshot_missing,regional-id-daily-2020-07-04.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-05,9,,,,snapshot_missing,regional-id-daily-2020-07-05.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-06,10,,,,snapshot_missing,regional-id-daily-2020-07-06.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-07,11,,,,snapshot_missing,regional-id-daily-2020-07-07.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-08,12,,,,snapshot_missing,regional-id-daily-2020-07-08.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-09,13,,,,snapshot_missing,regional-id-daily-2020-07-09.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-10,14,,,,snapshot_missing,regional-id-daily-2020-07-10.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-11,15,,,,snapshot_missing,regional-id-daily-2020-07-11.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-12,16,,,,snapshot_missing,regional-id-daily-2020-07-12.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-13,17,,,,snapshot_missing,regional-id-daily-2020-07-13.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-14,18,,,,snapshot_missing,regional-id-daily-2020-07-14.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-15,19,,,,snapshot_missing,regional-id-daily-2020-07-15.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-16,20,,,,snapshot_missing,regional-id-daily-2020-07-16.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-17,21,,,,snapshot_missing,regional-id-daily-2020-07-17.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-18,22,,,,snapshot_missing,regional-id-daily-2020-07-18.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-19,23,,,,snapshot_missing,regional-id-daily-2020-07-19.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-20,24,,,,snapshot_missing,regional-id-daily-2020-07-20.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-21,25,,,,snapshot_missing,regional-id-daily-2020-07-21.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-22,26,,,,snapshot_missing,regional-id-daily-2020-07-22.csv
+BP06,How You Like That,ID,Pre,Streaming Expansion,2020-06-26,2020-07-23,27,,,,snapshot_missing,regional-id-daily-2020-07-23.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-06-26,0,spotify:track:6y6k14YN6MbKpGIv1Rk00Q,10,762352,charted,regional-us-daily-2020-06-26.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-06-27,1,spotify:track:3vAn0qZzdyuHamcrpkfiX3,8,802535,charted,regional-us-daily-2020-06-27.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-06-28,2,spotify:track:3vAn0qZzdyuHamcrpkfiX3,12,675986,charted,regional-us-daily-2020-06-28.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-06-29,3,spotify:track:3vAn0qZzdyuHamcrpkfiX3,14,647590,charted,regional-us-daily-2020-06-29.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-06-30,4,spotify:track:3vAn0qZzdyuHamcrpkfiX3,19,603984,charted,regional-us-daily-2020-06-30.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-01,5,spotify:track:3vAn0qZzdyuHamcrpkfiX3,23,567494,charted,regional-us-daily-2020-07-01.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-02,6,spotify:track:3vAn0qZzdyuHamcrpkfiX3,25,563235,charted,regional-us-daily-2020-07-02.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-03,7,,,,snapshot_missing,regional-us-daily-2020-07-03.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-04,8,,,,snapshot_missing,regional-us-daily-2020-07-04.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-05,9,,,,snapshot_missing,regional-us-daily-2020-07-05.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-06,10,,,,snapshot_missing,regional-us-daily-2020-07-06.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-07,11,,,,snapshot_missing,regional-us-daily-2020-07-07.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-08,12,,,,snapshot_missing,regional-us-daily-2020-07-08.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-09,13,,,,snapshot_missing,regional-us-daily-2020-07-09.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-10,14,,,,snapshot_missing,regional-us-daily-2020-07-10.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-11,15,,,,snapshot_missing,regional-us-daily-2020-07-11.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-12,16,,,,snapshot_missing,regional-us-daily-2020-07-12.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-13,17,,,,snapshot_missing,regional-us-daily-2020-07-13.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-14,18,,,,snapshot_missing,regional-us-daily-2020-07-14.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-15,19,,,,snapshot_missing,regional-us-daily-2020-07-15.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-16,20,,,,snapshot_missing,regional-us-daily-2020-07-16.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-17,21,,,,snapshot_missing,regional-us-daily-2020-07-17.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-18,22,,,,snapshot_missing,regional-us-daily-2020-07-18.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-19,23,,,,snapshot_missing,regional-us-daily-2020-07-19.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-20,24,,,,snapshot_missing,regional-us-daily-2020-07-20.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-21,25,,,,snapshot_missing,regional-us-daily-2020-07-21.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-22,26,,,,snapshot_missing,regional-us-daily-2020-07-22.csv
+BP06,How You Like That,US,Pre,Streaming Expansion,2020-06-26,2020-07-23,27,,,,snapshot_missing,regional-us-daily-2020-07-23.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-02,0,spotify:track:4Ws314Ylb27BVsvlZOy30C,3,4880132,charted,regional-global-daily-2020-10-02.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-03,1,spotify:track:4Ws314Ylb27BVsvlZOy30C,6,4160417,charted,regional-global-daily-2020-10-03.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-04,2,spotify:track:4Ws314Ylb27BVsvlZOy30C,4,3830333,charted,regional-global-daily-2020-10-04.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-05,3,spotify:track:4Ws314Ylb27BVsvlZOy30C,5,3759173,charted,regional-global-daily-2020-10-05.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-06,4,spotify:track:4Ws314Ylb27BVsvlZOy30C,6,3459880,charted,regional-global-daily-2020-10-06.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-07,5,spotify:track:4Ws314Ylb27BVsvlZOy30C,7,3235582,charted,regional-global-daily-2020-10-07.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-08,6,spotify:track:4Ws314Ylb27BVsvlZOy30C,10,3006071,charted,regional-global-daily-2020-10-08.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-09,7,,,,snapshot_missing,regional-global-daily-2020-10-09.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-10,8,,,,snapshot_missing,regional-global-daily-2020-10-10.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-11,9,,,,snapshot_missing,regional-global-daily-2020-10-11.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-12,10,,,,snapshot_missing,regional-global-daily-2020-10-12.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-13,11,,,,snapshot_missing,regional-global-daily-2020-10-13.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-14,12,,,,snapshot_missing,regional-global-daily-2020-10-14.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-15,13,,,,snapshot_missing,regional-global-daily-2020-10-15.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-16,14,,,,snapshot_missing,regional-global-daily-2020-10-16.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-17,15,,,,snapshot_missing,regional-global-daily-2020-10-17.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-18,16,,,,snapshot_missing,regional-global-daily-2020-10-18.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-19,17,,,,snapshot_missing,regional-global-daily-2020-10-19.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-20,18,,,,snapshot_missing,regional-global-daily-2020-10-20.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-21,19,,,,snapshot_missing,regional-global-daily-2020-10-21.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-22,20,,,,snapshot_missing,regional-global-daily-2020-10-22.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-23,21,,,,snapshot_missing,regional-global-daily-2020-10-23.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-24,22,,,,snapshot_missing,regional-global-daily-2020-10-24.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-25,23,,,,snapshot_missing,regional-global-daily-2020-10-25.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-26,24,,,,snapshot_missing,regional-global-daily-2020-10-26.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-27,25,,,,snapshot_missing,regional-global-daily-2020-10-27.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-28,26,,,,snapshot_missing,regional-global-daily-2020-10-28.csv
+BP07,Lovesick Girls,Global,Main,Streaming Expansion,2020-10-02,2020-10-29,27,,,,snapshot_missing,regional-global-daily-2020-10-29.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-02,0,spotify:track:4Ws314Ylb27BVsvlZOy30C,1,469986,charted,regional-id-daily-2020-10-02.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-03,1,spotify:track:4Ws314Ylb27BVsvlZOy30C,1,452924,charted,regional-id-daily-2020-10-03.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-04,2,spotify:track:4Ws314Ylb27BVsvlZOy30C,1,418493,charted,regional-id-daily-2020-10-04.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-05,3,spotify:track:4Ws314Ylb27BVsvlZOy30C,1,426405,charted,regional-id-daily-2020-10-05.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-06,4,spotify:track:4Ws314Ylb27BVsvlZOy30C,1,375317,charted,regional-id-daily-2020-10-06.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-07,5,spotify:track:4Ws314Ylb27BVsvlZOy30C,1,352770,charted,regional-id-daily-2020-10-07.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-08,6,spotify:track:4Ws314Ylb27BVsvlZOy30C,1,318514,charted,regional-id-daily-2020-10-08.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-09,7,,,,snapshot_missing,regional-id-daily-2020-10-09.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-10,8,,,,snapshot_missing,regional-id-daily-2020-10-10.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-11,9,,,,snapshot_missing,regional-id-daily-2020-10-11.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-12,10,,,,snapshot_missing,regional-id-daily-2020-10-12.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-13,11,,,,snapshot_missing,regional-id-daily-2020-10-13.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-14,12,,,,snapshot_missing,regional-id-daily-2020-10-14.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-15,13,,,,snapshot_missing,regional-id-daily-2020-10-15.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-16,14,,,,snapshot_missing,regional-id-daily-2020-10-16.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-17,15,,,,snapshot_missing,regional-id-daily-2020-10-17.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-18,16,,,,snapshot_missing,regional-id-daily-2020-10-18.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-19,17,,,,snapshot_missing,regional-id-daily-2020-10-19.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-20,18,,,,snapshot_missing,regional-id-daily-2020-10-20.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-21,19,,,,snapshot_missing,regional-id-daily-2020-10-21.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-22,20,,,,snapshot_missing,regional-id-daily-2020-10-22.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-23,21,,,,snapshot_missing,regional-id-daily-2020-10-23.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-24,22,,,,snapshot_missing,regional-id-daily-2020-10-24.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-25,23,,,,snapshot_missing,regional-id-daily-2020-10-25.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-26,24,,,,snapshot_missing,regional-id-daily-2020-10-26.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-27,25,,,,snapshot_missing,regional-id-daily-2020-10-27.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-28,26,,,,snapshot_missing,regional-id-daily-2020-10-28.csv
+BP07,Lovesick Girls,ID,Main,Streaming Expansion,2020-10-02,2020-10-29,27,,,,snapshot_missing,regional-id-daily-2020-10-29.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-02,0,spotify:track:4Ws314Ylb27BVsvlZOy30C,24,789737,charted,regional-us-daily-2020-10-02.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-03,1,spotify:track:4Ws314Ylb27BVsvlZOy30C,31,608836,charted,regional-us-daily-2020-10-03.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-04,2,spotify:track:4Ws314Ylb27BVsvlZOy30C,25,560045,charted,regional-us-daily-2020-10-04.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-05,3,spotify:track:4Ws314Ylb27BVsvlZOy30C,25,555053,charted,regional-us-daily-2020-10-05.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-06,4,spotify:track:4Ws314Ylb27BVsvlZOy30C,27,513562,charted,regional-us-daily-2020-10-06.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-07,5,spotify:track:4Ws314Ylb27BVsvlZOy30C,31,483987,charted,regional-us-daily-2020-10-07.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-08,6,spotify:track:4Ws314Ylb27BVsvlZOy30C,35,442754,charted,regional-us-daily-2020-10-08.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-09,7,,,,snapshot_missing,regional-us-daily-2020-10-09.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-10,8,,,,snapshot_missing,regional-us-daily-2020-10-10.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-11,9,,,,snapshot_missing,regional-us-daily-2020-10-11.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-12,10,,,,snapshot_missing,regional-us-daily-2020-10-12.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-13,11,,,,snapshot_missing,regional-us-daily-2020-10-13.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-14,12,,,,snapshot_missing,regional-us-daily-2020-10-14.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-15,13,,,,snapshot_missing,regional-us-daily-2020-10-15.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-16,14,,,,snapshot_missing,regional-us-daily-2020-10-16.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-17,15,,,,snapshot_missing,regional-us-daily-2020-10-17.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-18,16,,,,snapshot_missing,regional-us-daily-2020-10-18.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-19,17,,,,snapshot_missing,regional-us-daily-2020-10-19.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-20,18,,,,snapshot_missing,regional-us-daily-2020-10-20.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-21,19,,,,snapshot_missing,regional-us-daily-2020-10-21.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-22,20,,,,snapshot_missing,regional-us-daily-2020-10-22.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-23,21,,,,snapshot_missing,regional-us-daily-2020-10-23.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-24,22,,,,snapshot_missing,regional-us-daily-2020-10-24.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-25,23,,,,snapshot_missing,regional-us-daily-2020-10-25.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-26,24,,,,snapshot_missing,regional-us-daily-2020-10-26.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-27,25,,,,snapshot_missing,regional-us-daily-2020-10-27.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-28,26,,,,snapshot_missing,regional-us-daily-2020-10-28.csv
+BP07,Lovesick Girls,US,Main,Streaming Expansion,2020-10-02,2020-10-29,27,,,,snapshot_missing,regional-us-daily-2020-10-29.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-19,0,spotify:track:0skYUMpS0AcbpjcGsAbRGj,1,7937046,charted,regional-global-daily-2022-08-19.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-20,1,spotify:track:0skYUMpS0AcbpjcGsAbRGj,1,6710743,charted,regional-global-daily-2022-08-20.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-21,2,spotify:track:0skYUMpS0AcbpjcGsAbRGj,1,5786451,charted,regional-global-daily-2022-08-21.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-22,3,spotify:track:0skYUMpS0AcbpjcGsAbRGj,2,5710687,charted,regional-global-daily-2022-08-22.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-23,4,spotify:track:0skYUMpS0AcbpjcGsAbRGj,3,5279927,charted,regional-global-daily-2022-08-23.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-24,5,spotify:track:0skYUMpS0AcbpjcGsAbRGj,3,4904079,charted,regional-global-daily-2022-08-24.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-25,6,spotify:track:0skYUMpS0AcbpjcGsAbRGj,3,4957282,charted,regional-global-daily-2022-08-25.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-26,7,,,,snapshot_missing,regional-global-daily-2022-08-26.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-27,8,,,,snapshot_missing,regional-global-daily-2022-08-27.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-28,9,,,,snapshot_missing,regional-global-daily-2022-08-28.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-29,10,,,,snapshot_missing,regional-global-daily-2022-08-29.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-30,11,,,,snapshot_missing,regional-global-daily-2022-08-30.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-08-31,12,,,,snapshot_missing,regional-global-daily-2022-08-31.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-01,13,,,,snapshot_missing,regional-global-daily-2022-09-01.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-02,14,,,,snapshot_missing,regional-global-daily-2022-09-02.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-03,15,,,,snapshot_missing,regional-global-daily-2022-09-03.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-04,16,,,,snapshot_missing,regional-global-daily-2022-09-04.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-05,17,,,,snapshot_missing,regional-global-daily-2022-09-05.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-06,18,,,,snapshot_missing,regional-global-daily-2022-09-06.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-07,19,,,,snapshot_missing,regional-global-daily-2022-09-07.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-08,20,,,,snapshot_missing,regional-global-daily-2022-09-08.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-09,21,,,,snapshot_missing,regional-global-daily-2022-09-09.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-10,22,,,,snapshot_missing,regional-global-daily-2022-09-10.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-11,23,,,,snapshot_missing,regional-global-daily-2022-09-11.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-12,24,,,,snapshot_missing,regional-global-daily-2022-09-12.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-13,25,,,,snapshot_missing,regional-global-daily-2022-09-13.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-14,26,,,,snapshot_missing,regional-global-daily-2022-09-14.csv
+BP08,Pink Venom,Global,Pre,Born Pink Upgrade,2022-08-19,2022-09-15,27,,,,snapshot_missing,regional-global-daily-2022-09-15.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-19,0,spotify:track:0skYUMpS0AcbpjcGsAbRGj,1,501133,charted,regional-id-daily-2022-08-19.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-20,1,spotify:track:0skYUMpS0AcbpjcGsAbRGj,1,511721,charted,regional-id-daily-2022-08-20.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-21,2,spotify:track:0skYUMpS0AcbpjcGsAbRGj,2,485668,charted,regional-id-daily-2022-08-21.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-22,3,spotify:track:0skYUMpS0AcbpjcGsAbRGj,2,473750,charted,regional-id-daily-2022-08-22.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-23,4,spotify:track:0skYUMpS0AcbpjcGsAbRGj,3,436328,charted,regional-id-daily-2022-08-23.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-24,5,spotify:track:0skYUMpS0AcbpjcGsAbRGj,4,410047,charted,regional-id-daily-2022-08-24.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-25,6,spotify:track:0skYUMpS0AcbpjcGsAbRGj,4,422299,charted,regional-id-daily-2022-08-25.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-26,7,,,,snapshot_missing,regional-id-daily-2022-08-26.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-27,8,,,,snapshot_missing,regional-id-daily-2022-08-27.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-28,9,,,,snapshot_missing,regional-id-daily-2022-08-28.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-29,10,,,,snapshot_missing,regional-id-daily-2022-08-29.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-30,11,,,,snapshot_missing,regional-id-daily-2022-08-30.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-08-31,12,,,,snapshot_missing,regional-id-daily-2022-08-31.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-01,13,,,,snapshot_missing,regional-id-daily-2022-09-01.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-02,14,,,,snapshot_missing,regional-id-daily-2022-09-02.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-03,15,,,,snapshot_missing,regional-id-daily-2022-09-03.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-04,16,,,,snapshot_missing,regional-id-daily-2022-09-04.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-05,17,,,,snapshot_missing,regional-id-daily-2022-09-05.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-06,18,,,,snapshot_missing,regional-id-daily-2022-09-06.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-07,19,,,,snapshot_missing,regional-id-daily-2022-09-07.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-08,20,,,,snapshot_missing,regional-id-daily-2022-09-08.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-09,21,,,,snapshot_missing,regional-id-daily-2022-09-09.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-10,22,,,,snapshot_missing,regional-id-daily-2022-09-10.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-11,23,,,,snapshot_missing,regional-id-daily-2022-09-11.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-12,24,,,,snapshot_missing,regional-id-daily-2022-09-12.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-13,25,,,,snapshot_missing,regional-id-daily-2022-09-13.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-14,26,,,,snapshot_missing,regional-id-daily-2022-09-14.csv
+BP08,Pink Venom,ID,Pre,Born Pink Upgrade,2022-08-19,2022-09-15,27,,,,snapshot_missing,regional-id-daily-2022-09-15.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-19,0,spotify:track:0skYUMpS0AcbpjcGsAbRGj,6,1038802,charted,regional-us-daily-2022-08-19.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-20,1,spotify:track:0skYUMpS0AcbpjcGsAbRGj,8,833291,charted,regional-us-daily-2022-08-20.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-21,2,spotify:track:0skYUMpS0AcbpjcGsAbRGj,9,658234,charted,regional-us-daily-2022-08-21.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-22,3,spotify:track:0skYUMpS0AcbpjcGsAbRGj,10,659077,charted,regional-us-daily-2022-08-22.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-23,4,spotify:track:0skYUMpS0AcbpjcGsAbRGj,14,623309,charted,regional-us-daily-2022-08-23.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-24,5,spotify:track:0skYUMpS0AcbpjcGsAbRGj,17,582143,charted,regional-us-daily-2022-08-24.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-25,6,spotify:track:0skYUMpS0AcbpjcGsAbRGj,17,608442,charted,regional-us-daily-2022-08-25.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-26,7,,,,snapshot_missing,regional-us-daily-2022-08-26.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-27,8,,,,snapshot_missing,regional-us-daily-2022-08-27.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-28,9,,,,snapshot_missing,regional-us-daily-2022-08-28.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-29,10,,,,snapshot_missing,regional-us-daily-2022-08-29.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-30,11,,,,snapshot_missing,regional-us-daily-2022-08-30.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-08-31,12,,,,snapshot_missing,regional-us-daily-2022-08-31.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-01,13,,,,snapshot_missing,regional-us-daily-2022-09-01.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-02,14,,,,snapshot_missing,regional-us-daily-2022-09-02.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-03,15,,,,snapshot_missing,regional-us-daily-2022-09-03.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-04,16,,,,snapshot_missing,regional-us-daily-2022-09-04.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-05,17,,,,snapshot_missing,regional-us-daily-2022-09-05.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-06,18,,,,snapshot_missing,regional-us-daily-2022-09-06.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-07,19,,,,snapshot_missing,regional-us-daily-2022-09-07.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-08,20,,,,snapshot_missing,regional-us-daily-2022-09-08.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-09,21,,,,snapshot_missing,regional-us-daily-2022-09-09.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-10,22,,,,snapshot_missing,regional-us-daily-2022-09-10.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-11,23,,,,snapshot_missing,regional-us-daily-2022-09-11.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-12,24,,,,snapshot_missing,regional-us-daily-2022-09-12.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-13,25,,,,snapshot_missing,regional-us-daily-2022-09-13.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-14,26,,,,snapshot_missing,regional-us-daily-2022-09-14.csv
+BP08,Pink Venom,US,Pre,Born Pink Upgrade,2022-08-19,2022-09-15,27,,,,snapshot_missing,regional-us-daily-2022-09-15.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-16,0,spotify:track:7gRFDGEzF9UkBV233yv2dc,1,6601921,charted,regional-global-daily-2022-09-16.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-17,1,spotify:track:7gRFDGEzF9UkBV233yv2dc,1,6269733,charted,regional-global-daily-2022-09-17.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-18,2,spotify:track:7gRFDGEzF9UkBV233yv2dc,1,5510101,charted,regional-global-daily-2022-09-18.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-19,3,spotify:track:7gRFDGEzF9UkBV233yv2dc,1,5708890,charted,regional-global-daily-2022-09-19.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-20,4,spotify:track:7gRFDGEzF9UkBV233yv2dc,1,5335002,charted,regional-global-daily-2022-09-20.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-21,5,spotify:track:7gRFDGEzF9UkBV233yv2dc,1,5004505,charted,regional-global-daily-2022-09-21.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-22,6,spotify:track:7gRFDGEzF9UkBV233yv2dc,3,4755975,charted,regional-global-daily-2022-09-22.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-23,7,,,,snapshot_missing,regional-global-daily-2022-09-23.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-24,8,,,,snapshot_missing,regional-global-daily-2022-09-24.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-25,9,,,,snapshot_missing,regional-global-daily-2022-09-25.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-26,10,,,,snapshot_missing,regional-global-daily-2022-09-26.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-27,11,,,,snapshot_missing,regional-global-daily-2022-09-27.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-28,12,,,,snapshot_missing,regional-global-daily-2022-09-28.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-29,13,,,,snapshot_missing,regional-global-daily-2022-09-29.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-09-30,14,,,,snapshot_missing,regional-global-daily-2022-09-30.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-01,15,,,,snapshot_missing,regional-global-daily-2022-10-01.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-02,16,,,,snapshot_missing,regional-global-daily-2022-10-02.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-03,17,,,,snapshot_missing,regional-global-daily-2022-10-03.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-04,18,,,,snapshot_missing,regional-global-daily-2022-10-04.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-05,19,,,,snapshot_missing,regional-global-daily-2022-10-05.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-06,20,,,,snapshot_missing,regional-global-daily-2022-10-06.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-07,21,,,,snapshot_missing,regional-global-daily-2022-10-07.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-08,22,,,,snapshot_missing,regional-global-daily-2022-10-08.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-09,23,,,,snapshot_missing,regional-global-daily-2022-10-09.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-10,24,,,,snapshot_missing,regional-global-daily-2022-10-10.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-11,25,,,,snapshot_missing,regional-global-daily-2022-10-11.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-12,26,,,,snapshot_missing,regional-global-daily-2022-10-12.csv
+BP09,Shut Down,Global,Main,Born Pink Upgrade,2022-09-16,2022-10-13,27,,,,snapshot_missing,regional-global-daily-2022-10-13.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-16,0,spotify:track:7gRFDGEzF9UkBV233yv2dc,5,402926,charted,regional-id-daily-2022-09-16.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-17,1,spotify:track:7gRFDGEzF9UkBV233yv2dc,4,447260,charted,regional-id-daily-2022-09-17.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-18,2,spotify:track:7gRFDGEzF9UkBV233yv2dc,3,435925,charted,regional-id-daily-2022-09-18.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-19,3,spotify:track:7gRFDGEzF9UkBV233yv2dc,2,436833,charted,regional-id-daily-2022-09-19.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-20,4,spotify:track:7gRFDGEzF9UkBV233yv2dc,3,408264,charted,regional-id-daily-2022-09-20.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-21,5,spotify:track:7gRFDGEzF9UkBV233yv2dc,4,380470,charted,regional-id-daily-2022-09-21.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-22,6,spotify:track:7gRFDGEzF9UkBV233yv2dc,4,360472,charted,regional-id-daily-2022-09-22.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-23,7,,,,snapshot_missing,regional-id-daily-2022-09-23.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-24,8,,,,snapshot_missing,regional-id-daily-2022-09-24.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-25,9,,,,snapshot_missing,regional-id-daily-2022-09-25.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-26,10,,,,snapshot_missing,regional-id-daily-2022-09-26.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-27,11,,,,snapshot_missing,regional-id-daily-2022-09-27.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-28,12,,,,snapshot_missing,regional-id-daily-2022-09-28.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-29,13,,,,snapshot_missing,regional-id-daily-2022-09-29.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-09-30,14,,,,snapshot_missing,regional-id-daily-2022-09-30.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-01,15,,,,snapshot_missing,regional-id-daily-2022-10-01.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-02,16,,,,snapshot_missing,regional-id-daily-2022-10-02.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-03,17,,,,snapshot_missing,regional-id-daily-2022-10-03.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-04,18,,,,snapshot_missing,regional-id-daily-2022-10-04.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-05,19,,,,snapshot_missing,regional-id-daily-2022-10-05.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-06,20,,,,snapshot_missing,regional-id-daily-2022-10-06.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-07,21,,,,snapshot_missing,regional-id-daily-2022-10-07.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-08,22,,,,snapshot_missing,regional-id-daily-2022-10-08.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-09,23,,,,snapshot_missing,regional-id-daily-2022-10-09.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-10,24,,,,snapshot_missing,regional-id-daily-2022-10-10.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-11,25,,,,snapshot_missing,regional-id-daily-2022-10-11.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-12,26,,,,snapshot_missing,regional-id-daily-2022-10-12.csv
+BP09,Shut Down,ID,Main,Born Pink Upgrade,2022-09-16,2022-10-13,27,,,,snapshot_missing,regional-id-daily-2022-10-13.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-16,0,spotify:track:7gRFDGEzF9UkBV233yv2dc,3,1037386,charted,regional-us-daily-2022-09-16.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-17,1,spotify:track:7gRFDGEzF9UkBV233yv2dc,6,881035,charted,regional-us-daily-2022-09-17.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-18,2,spotify:track:7gRFDGEzF9UkBV233yv2dc,7,725110,charted,regional-us-daily-2022-09-18.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-19,3,spotify:track:7gRFDGEzF9UkBV233yv2dc,7,782870,charted,regional-us-daily-2022-09-19.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-20,4,spotify:track:7gRFDGEzF9UkBV233yv2dc,7,732491,charted,regional-us-daily-2022-09-20.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-21,5,spotify:track:7gRFDGEzF9UkBV233yv2dc,14,673313,charted,regional-us-daily-2022-09-21.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-22,6,spotify:track:7gRFDGEzF9UkBV233yv2dc,19,634694,charted,regional-us-daily-2022-09-22.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-23,7,,,,snapshot_missing,regional-us-daily-2022-09-23.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-24,8,,,,snapshot_missing,regional-us-daily-2022-09-24.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-25,9,,,,snapshot_missing,regional-us-daily-2022-09-25.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-26,10,,,,snapshot_missing,regional-us-daily-2022-09-26.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-27,11,,,,snapshot_missing,regional-us-daily-2022-09-27.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-28,12,,,,snapshot_missing,regional-us-daily-2022-09-28.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-29,13,,,,snapshot_missing,regional-us-daily-2022-09-29.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-09-30,14,,,,snapshot_missing,regional-us-daily-2022-09-30.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-01,15,,,,snapshot_missing,regional-us-daily-2022-10-01.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-02,16,,,,snapshot_missing,regional-us-daily-2022-10-02.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-03,17,,,,snapshot_missing,regional-us-daily-2022-10-03.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-04,18,,,,snapshot_missing,regional-us-daily-2022-10-04.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-05,19,,,,snapshot_missing,regional-us-daily-2022-10-05.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-06,20,,,,snapshot_missing,regional-us-daily-2022-10-06.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-07,21,,,,snapshot_missing,regional-us-daily-2022-10-07.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-08,22,,,,snapshot_missing,regional-us-daily-2022-10-08.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-09,23,,,,snapshot_missing,regional-us-daily-2022-10-09.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-10,24,,,,snapshot_missing,regional-us-daily-2022-10-10.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-11,25,,,,snapshot_missing,regional-us-daily-2022-10-11.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-12,26,,,,snapshot_missing,regional-us-daily-2022-10-12.csv
+BP09,Shut Down,US,Main,Born Pink Upgrade,2022-09-16,2022-10-13,27,,,,snapshot_missing,regional-us-daily-2022-10-13.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-11,0,spotify:track:5H1sKFMzDeMtXwND3V6hRY,2,7028123,charted,regional-global-daily-2025-07-11.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-12,1,spotify:track:5H1sKFMzDeMtXwND3V6hRY,1,6068142,charted,regional-global-daily-2025-07-12.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-13,2,spotify:track:5H1sKFMzDeMtXwND3V6hRY,1,5547862,charted,regional-global-daily-2025-07-13.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-14,3,spotify:track:5H1sKFMzDeMtXwND3V6hRY,1,6563160,charted,regional-global-daily-2025-07-14.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-15,4,spotify:track:5H1sKFMzDeMtXwND3V6hRY,1,6703441,charted,regional-global-daily-2025-07-15.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-16,5,spotify:track:5H1sKFMzDeMtXwND3V6hRY,1,6579237,charted,regional-global-daily-2025-07-16.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-17,6,spotify:track:5H1sKFMzDeMtXwND3V6hRY,1,6269977,charted,regional-global-daily-2025-07-17.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-18,7,spotify:track:5H1sKFMzDeMtXwND3V6hRY,4,5242749,charted,regional-global-daily-2025-07-18.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-19,8,spotify:track:5H1sKFMzDeMtXwND3V6hRY,4,4850892,charted,regional-global-daily-2025-07-19.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-20,9,spotify:track:5H1sKFMzDeMtXwND3V6hRY,4,4624178,charted,regional-global-daily-2025-07-20.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-21,10,spotify:track:5H1sKFMzDeMtXwND3V6hRY,7,4929820,charted,regional-global-daily-2025-07-21.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-22,11,spotify:track:5H1sKFMzDeMtXwND3V6hRY,6,4778027,charted,regional-global-daily-2025-07-22.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-23,12,spotify:track:5H1sKFMzDeMtXwND3V6hRY,6,4623290,charted,regional-global-daily-2025-07-23.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-24,13,spotify:track:5H1sKFMzDeMtXwND3V6hRY,6,4630810,charted,regional-global-daily-2025-07-24.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-25,14,spotify:track:5H1sKFMzDeMtXwND3V6hRY,6,4527323,charted,regional-global-daily-2025-07-25.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-26,15,spotify:track:5H1sKFMzDeMtXwND3V6hRY,7,4269319,charted,regional-global-daily-2025-07-26.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-27,16,spotify:track:5H1sKFMzDeMtXwND3V6hRY,8,3676471,charted,regional-global-daily-2025-07-27.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-28,17,spotify:track:5H1sKFMzDeMtXwND3V6hRY,8,3959329,charted,regional-global-daily-2025-07-28.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-29,18,spotify:track:5H1sKFMzDeMtXwND3V6hRY,8,3976441,charted,regional-global-daily-2025-07-29.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-30,19,spotify:track:5H1sKFMzDeMtXwND3V6hRY,8,4027778,charted,regional-global-daily-2025-07-30.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-07-31,20,spotify:track:5H1sKFMzDeMtXwND3V6hRY,7,3924302,charted,regional-global-daily-2025-07-31.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-08-01,21,spotify:track:5H1sKFMzDeMtXwND3V6hRY,8,3926294,charted,regional-global-daily-2025-08-01.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-08-02,22,spotify:track:5H1sKFMzDeMtXwND3V6hRY,11,3693821,charted,regional-global-daily-2025-08-02.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-08-03,23,spotify:track:5H1sKFMzDeMtXwND3V6hRY,12,3441470,charted,regional-global-daily-2025-08-03.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-08-04,24,spotify:track:5H1sKFMzDeMtXwND3V6hRY,9,3748547,charted,regional-global-daily-2025-08-04.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-08-05,25,spotify:track:5H1sKFMzDeMtXwND3V6hRY,10,3769472,charted,regional-global-daily-2025-08-05.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-08-06,26,spotify:track:5H1sKFMzDeMtXwND3V6hRY,10,3737719,charted,regional-global-daily-2025-08-06.csv
+BP10,Jump,Global,Main,Post-Tour Maintenance,2025-07-11,2025-08-07,27,spotify:track:5H1sKFMzDeMtXwND3V6hRY,10,3700554,charted,regional-global-daily-2025-08-07.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-11,0,spotify:track:5H1sKFMzDeMtXwND3V6hRY,38,432680,charted,regional-id-daily-2025-07-11.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-12,1,spotify:track:5H1sKFMzDeMtXwND3V6hRY,45,412419,charted,regional-id-daily-2025-07-12.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-13,2,spotify:track:5H1sKFMzDeMtXwND3V6hRY,50,384028,charted,regional-id-daily-2025-07-13.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-14,3,spotify:track:5H1sKFMzDeMtXwND3V6hRY,31,429605,charted,regional-id-daily-2025-07-14.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-15,4,spotify:track:5H1sKFMzDeMtXwND3V6hRY,30,438156,charted,regional-id-daily-2025-07-15.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-16,5,spotify:track:5H1sKFMzDeMtXwND3V6hRY,31,426873,charted,regional-id-daily-2025-07-16.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-17,6,spotify:track:5H1sKFMzDeMtXwND3V6hRY,36,398961,charted,regional-id-daily-2025-07-17.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-18,7,,,,snapshot_missing,regional-id-daily-2025-07-18.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-19,8,,,,snapshot_missing,regional-id-daily-2025-07-19.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-20,9,,,,snapshot_missing,regional-id-daily-2025-07-20.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-21,10,,,,snapshot_missing,regional-id-daily-2025-07-21.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-22,11,,,,snapshot_missing,regional-id-daily-2025-07-22.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-23,12,,,,snapshot_missing,regional-id-daily-2025-07-23.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-24,13,,,,snapshot_missing,regional-id-daily-2025-07-24.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-25,14,,,,snapshot_missing,regional-id-daily-2025-07-25.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-26,15,,,,snapshot_missing,regional-id-daily-2025-07-26.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-27,16,,,,snapshot_missing,regional-id-daily-2025-07-27.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-28,17,,,,snapshot_missing,regional-id-daily-2025-07-28.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-29,18,,,,snapshot_missing,regional-id-daily-2025-07-29.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-30,19,,,,snapshot_missing,regional-id-daily-2025-07-30.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-07-31,20,,,,snapshot_missing,regional-id-daily-2025-07-31.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-08-01,21,,,,snapshot_missing,regional-id-daily-2025-08-01.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-08-02,22,,,,snapshot_missing,regional-id-daily-2025-08-02.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-08-03,23,,,,snapshot_missing,regional-id-daily-2025-08-03.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-08-04,24,,,,snapshot_missing,regional-id-daily-2025-08-04.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-08-05,25,,,,snapshot_missing,regional-id-daily-2025-08-05.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-08-06,26,,,,snapshot_missing,regional-id-daily-2025-08-06.csv
+BP10,Jump,ID,Main,Post-Tour Maintenance,2025-07-11,2025-08-07,27,,,,snapshot_missing,regional-id-daily-2025-08-07.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-11,0,spotify:track:5H1sKFMzDeMtXwND3V6hRY,25,973031,charted,regional-us-daily-2025-07-11.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-12,1,spotify:track:5H1sKFMzDeMtXwND3V6hRY,25,815082,charted,regional-us-daily-2025-07-12.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-13,2,spotify:track:5H1sKFMzDeMtXwND3V6hRY,29,718827,charted,regional-us-daily-2025-07-13.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-14,3,spotify:track:5H1sKFMzDeMtXwND3V6hRY,19,865751,charted,regional-us-daily-2025-07-14.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-15,4,spotify:track:5H1sKFMzDeMtXwND3V6hRY,16,910025,charted,regional-us-daily-2025-07-15.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-16,5,spotify:track:5H1sKFMzDeMtXwND3V6hRY,15,906246,charted,regional-us-daily-2025-07-16.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-17,6,spotify:track:5H1sKFMzDeMtXwND3V6hRY,14,867624,charted,regional-us-daily-2025-07-17.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-18,7,,,,snapshot_missing,regional-us-daily-2025-07-18.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-19,8,,,,snapshot_missing,regional-us-daily-2025-07-19.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-20,9,,,,snapshot_missing,regional-us-daily-2025-07-20.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-21,10,,,,snapshot_missing,regional-us-daily-2025-07-21.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-22,11,,,,snapshot_missing,regional-us-daily-2025-07-22.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-23,12,,,,snapshot_missing,regional-us-daily-2025-07-23.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-24,13,,,,snapshot_missing,regional-us-daily-2025-07-24.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-25,14,,,,snapshot_missing,regional-us-daily-2025-07-25.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-26,15,,,,snapshot_missing,regional-us-daily-2025-07-26.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-27,16,,,,snapshot_missing,regional-us-daily-2025-07-27.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-28,17,,,,snapshot_missing,regional-us-daily-2025-07-28.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-29,18,,,,snapshot_missing,regional-us-daily-2025-07-29.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-30,19,,,,snapshot_missing,regional-us-daily-2025-07-30.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-07-31,20,,,,snapshot_missing,regional-us-daily-2025-07-31.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-08-01,21,,,,snapshot_missing,regional-us-daily-2025-08-01.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-08-02,22,,,,snapshot_missing,regional-us-daily-2025-08-02.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-08-03,23,,,,snapshot_missing,regional-us-daily-2025-08-03.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-08-04,24,,,,snapshot_missing,regional-us-daily-2025-08-04.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-08-05,25,,,,snapshot_missing,regional-us-daily-2025-08-05.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-08-06,26,,,,snapshot_missing,regional-us-daily-2025-08-06.csv
+BP10,Jump,US,Main,Post-Tour Maintenance,2025-07-11,2025-08-07,27,,,,snapshot_missing,regional-us-daily-2025-08-07.csv

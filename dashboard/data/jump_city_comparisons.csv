@@ -1,0 +1,12 @@
+stop,city,role,before_rank,show_rank,after_rank,rank_gain
+Chicago,Chicago,tour,67,26,51,41
+Chicago,Detroit,control,,,,
+Chicago,Minneapolis,control,,,,
+Chicago,Dallas,backup,92,90,100,2
+Chicago,Houston,backup,63,56,65,7
+New York,New York City,tour,13,12,18,1
+New York,Philadelphia,control,75,53,79,22
+New York,Washington,control,44,43,47,1
+Paris,Paris,tour,35,24,32,11
+Paris,Lyon,control,53,48,43,5
+Paris,Marseille,control,70,62,53,8

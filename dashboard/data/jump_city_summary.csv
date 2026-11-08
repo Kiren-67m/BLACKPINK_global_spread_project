@@ -1,0 +1,4 @@
+stop,first_show_local,last_show_local,before_week_end,show_week_end,after_week_end,before_rank,show_rank,after_rank,rank_gain,control_count,control_median_gain,gain_vs_controls,global_before_streams,global_show_streams,global_week_change_pct
+Chicago,2025-07-18,2025-07-18,2025-07-17,2025-07-24,2025-07-31,67,26,51,41,2,4.5,36.5,44759942,33679766,-24.754670146802248
+New York,2025-07-26,2025-07-27,2025-07-24,2025-07-31,2025-08-07,13,12,18,1,2,11.5,-10.5,33679766,28360963,-15.792280148264693
+Paris,2025-08-02,2025-08-03,2025-07-31,2025-08-07,2025-08-14,35,24,32,11,2,6.5,4.5,28360963,26017877,-8.261658816028216

@@ -1,1 +1,25 @@
-track_id,uri,track_name,market,anchor_type,era,peak_streams_calc,day6_streams,retention_day6_vs_peak,release_date
+track_id,uri,track_name,market,anchor_type,era,peak_streams_calc,day6_streams,retention_day6_vs_peak,release_date,days_charted,snapshots_available,chart_uri_count,best_rank,peak_day,first_week_streams
+BP03,,As If It’s Your Last,Global,Main,Early Globalization,,,,2017-06-22,0,7,0,,,
+BP03,spotify:track:7LJjWqhqK594nN7qJzLVXE,As If It’s Your Last,ID,Main,Early Globalization,39320,27636,0.7028484231943032,2017-06-22,7,7,1,14,1,205620
+BP03,,As If It’s Your Last,US,Main,Early Globalization,,,,2017-06-22,0,7,0,,,
+BP04,spotify:track:7b8YOVV5quZcSKEijDgyWB,DDU-DU DDU-DU,Global,Main,Early Globalization,1317999,1089931,0.8269588975408935,2018-06-15,7,7,1,37,1,8462430
+BP04,spotify:track:7b8YOVV5quZcSKEijDgyWB,DDU-DU DDU-DU,ID,Main,Early Globalization,123800,112771,0.9109127625201938,2018-06-15,7,7,1,1,1,765343
+BP04,spotify:track:7b8YOVV5quZcSKEijDgyWB,DDU-DU DDU-DU,US,Main,Early Globalization,253811,,,2018-06-15,5,7,1,137,1,
+BP05,spotify:track:3VHrwffnUZFb7FidvPV3OA,Kill This Love,Global,Main,Early Globalization,4003909,3045081,0.7605270249648531,2019-04-05,7,7,2,4,0,22870205
+BP05,spotify:track:3VHrwffnUZFb7FidvPV3OA,Kill This Love,ID,Main,Early Globalization,477163,289806,0.6073522045925606,2019-04-05,7,7,2,1,0,2538952
+BP05,spotify:track:3VHrwffnUZFb7FidvPV3OA,Kill This Love,US,Main,Early Globalization,767637,592871,0.7723324956978364,2019-04-05,7,7,2,32,0,4369678
+BP06,spotify:track:3vAn0qZzdyuHamcrpkfiX3,How You Like That,Global,Pre,Streaming Expansion,4894830,3637860,0.743204564816347,2020-06-26,7,7,2,2,1,28978705
+BP06,spotify:track:3vAn0qZzdyuHamcrpkfiX3,How You Like That,ID,Pre,Streaming Expansion,568250,426032,0.7497263528376594,2020-06-26,7,7,2,1,1,3306046
+BP06,spotify:track:3vAn0qZzdyuHamcrpkfiX3,How You Like That,US,Pre,Streaming Expansion,802535,563235,0.701819858323936,2020-06-26,7,7,2,8,1,4623176
+BP07,spotify:track:4Ws314Ylb27BVsvlZOy30C,Lovesick Girls,Global,Main,Streaming Expansion,4880132,3006071,0.6159814939431966,2020-10-02,7,7,1,3,0,26331588
+BP07,spotify:track:4Ws314Ylb27BVsvlZOy30C,Lovesick Girls,ID,Main,Streaming Expansion,469986,318514,0.6777095487950705,2020-10-02,7,7,1,1,0,2814409
+BP07,spotify:track:4Ws314Ylb27BVsvlZOy30C,Lovesick Girls,US,Main,Streaming Expansion,789737,442754,0.5606347429587318,2020-10-02,7,7,1,24,0,3953974
+BP08,spotify:track:0skYUMpS0AcbpjcGsAbRGj,Pink Venom,Global,Pre,Born Pink Upgrade,7937046,4957282,0.6245751883005339,2022-08-19,7,7,1,1,0,41286215
+BP08,spotify:track:0skYUMpS0AcbpjcGsAbRGj,Pink Venom,ID,Pre,Born Pink Upgrade,511721,422299,0.8252524324778542,2022-08-19,7,7,1,1,1,3240946
+BP08,spotify:track:0skYUMpS0AcbpjcGsAbRGj,Pink Venom,US,Pre,Born Pink Upgrade,1038802,608442,0.5857150833363817,2022-08-19,7,7,1,6,0,5003298
+BP09,spotify:track:7gRFDGEzF9UkBV233yv2dc,Shut Down,Global,Main,Born Pink Upgrade,6601921,4755975,0.7203925948220222,2022-09-16,7,7,1,1,0,39186127
+BP09,spotify:track:7gRFDGEzF9UkBV233yv2dc,Shut Down,ID,Main,Born Pink Upgrade,447260,360472,0.8059562670482493,2022-09-16,7,7,1,2,1,2872150
+BP09,spotify:track:7gRFDGEzF9UkBV233yv2dc,Shut Down,US,Main,Born Pink Upgrade,1037386,634694,0.6118204795514881,2022-09-16,7,7,1,3,0,5466899
+BP10,spotify:track:5H1sKFMzDeMtXwND3V6hRY,Jump,Global,Main,Post-Tour Maintenance,7028123,6269977,0.8921268167902013,2025-07-11,7,7,1,1,0,44759942
+BP10,spotify:track:5H1sKFMzDeMtXwND3V6hRY,Jump,ID,Main,Post-Tour Maintenance,438156,398961,0.9105455591159313,2025-07-11,7,7,1,30,4,2922722
+BP10,spotify:track:5H1sKFMzDeMtXwND3V6hRY,Jump,US,Main,Post-Tour Maintenance,973031,867624,0.8916714883698463,2025-07-11,7,7,1,14,0,6056586

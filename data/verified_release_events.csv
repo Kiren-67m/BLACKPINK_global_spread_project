@@ -1,0 +1,8 @@
+event_id,track_id,event_date,local_date,event_type,market,event_name,source_url
+KTL-RELEASE,BP05,2019-04-05,2019-04-05,Digital release,Global,Kill This Love digital release,https://www.ygfamily.com/en/artists/blackpink/discography/240
+KTL-COACHELLA-1,BP05,2019-04-13,2019-04-12,Festival performance,United States,First Coachella performance,https://yg-life.com/archives/134587?lang=en
+KTL-COACHELLA-2,BP05,2019-04-20,2019-04-19,Festival performance,United States,Second Coachella performance,https://yg-life.com/archives/135058?lang=en
+JUMP-GOYANG-1,BP10,2025-07-05,2025-07-05,Live premiere,South Korea,DEADLINE opening concert and live premiere,https://www.ygfamily.com/en/news/report/7105
+JUMP-GOYANG-2,BP10,2025-07-06,2025-07-06,Live performance,South Korea,Second Goyang performance,https://www.ygfamily.com/en/news/report/7105
+JUMP-TEASER,BP10,2025-07-08,2025-07-08,Music video teaser,Global,JUMP music video teaser,https://www.ygfamily.com/en/news/report/7105
+JUMP-RELEASE,BP10,2025-07-11,2025-07-11,Digital release,Global,JUMP digital release,https://ygfamily.com/en/news/report/6997
